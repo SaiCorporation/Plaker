@@ -1,0 +1,14 @@
+New (!TILE1) at 12px
+(!TILE1) design {
+bg-color: tan;
+align: left;
+file: right;
+}
+New (!TILE2) at 12px
+(!TILE2) design {
+bg-color: tan;
+align: left;
+file: right;
+headertext: Plaker is a parch-code based plaking tool;
+header: PLAKER(!VOL!)
+}
