@@ -21,4 +21,4 @@ end UI
   }
 }`.
 ######
-Next, click Create. Finally preview the app by clicking 'other' and open in the main menu
+Next, click Create. Finally preview the app by clicking 'other' and open in the main menu.
